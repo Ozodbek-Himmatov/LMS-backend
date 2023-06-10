@@ -6,6 +6,4 @@ export class CreateSubjectStaffDto {
 
 	@ApiProperty({ example: "123" })
 	subject_id: number;
-
-	;
 }
